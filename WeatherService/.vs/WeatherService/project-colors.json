@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c43eaa55-a099-410f-b959-9b0f0ae95d22": {
+      "ProjectGuid": "c43eaa55-a099-410f-b959-9b0f0ae95d22",
+      "DisplayName": "WeatherService",
+      "ColorIndex": 0
+    },
+    "59f06ca6-364c-407f-9569-1dbe014fe7f8": {
+      "ProjectGuid": "59f06ca6-364c-407f-9569-1dbe014fe7f8",
+      "DisplayName": "WeatherServiceTDD",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

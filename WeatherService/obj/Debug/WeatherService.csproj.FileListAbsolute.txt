@@ -1,0 +1,10 @@
+D:\DEVELOPMENT\M&G\WeatherService\bin\Debug\WeatherService.exe.config
+D:\DEVELOPMENT\M&G\WeatherService\bin\Debug\WeatherService.exe
+D:\DEVELOPMENT\M&G\WeatherService\bin\Debug\WeatherService.pdb
+D:\DEVELOPMENT\M&G\WeatherService\bin\Debug\Newtonsoft.Json.dll
+D:\DEVELOPMENT\M&G\WeatherService\bin\Debug\Newtonsoft.Json.xml
+D:\DEVELOPMENT\M&G\WeatherService\obj\Debug\WeatherService.csproj.SuggestedBindingRedirects.cache
+D:\DEVELOPMENT\M&G\WeatherService\obj\Debug\WeatherService.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\M&G\WeatherService\obj\Debug\WeatherService.csproj.CopyComplete
+D:\DEVELOPMENT\M&G\WeatherService\obj\Debug\WeatherService.exe
+D:\DEVELOPMENT\M&G\WeatherService\obj\Debug\WeatherService.pdb
