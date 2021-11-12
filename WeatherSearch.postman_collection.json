@@ -1,0 +1,76 @@
+{
+	"info": {
+		"_postman_id": "8e92ce4e-3ca7-4cdf-a44d-8d718e0c87a1",
+		"name": "WeatherSearch",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Country id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://api.openweathermap.org/data/2.5/weather?id=2988507&units=metric&appid=aa69195559bd4f88d79f9aadeb77a8f6",
+					"protocol": "http",
+					"host": [
+						"api",
+						"openweathermap",
+						"org"
+					],
+					"path": [
+						"data",
+						"2.5",
+						"weather"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "2988507"
+						},
+						{
+							"key": "units",
+							"value": "metric"
+						},
+						{
+							"key": "appid",
+							"value": "aa69195559bd4f88d79f9aadeb77a8f6"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Country Name ",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "api.openweathermap.org/data/2.5/weather?q=London&appid=aa69195559bd4f88d79f9aadeb77a8f6",
+					"host": [
+						"api",
+						"openweathermap",
+						"org"
+					],
+					"path": [
+						"data",
+						"2.5",
+						"weather"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "London"
+						},
+						{
+							"key": "appid",
+							"value": "aa69195559bd4f88d79f9aadeb77a8f6"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
