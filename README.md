@@ -5,7 +5,7 @@ The weather service will receive a daily file that contains a list of cities. Fo
 
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@abhiseky93](https://github.com/abhiseky93/Weather-Service)
 
 
 ## Documentation
